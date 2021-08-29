@@ -1,12 +1,14 @@
 main{
  background-color: rgb(194, 179, 179);
+ padding-left: 10px;
+ 
 }
 h1 {
  text-align: center;
 }
 img {
  border-radius: 100%;
- padding-top: 15px;
+ padding-top: 5px;
 }
 ul {
  text-decoration: none;
@@ -34,7 +36,8 @@ footer{
  text-align: center;
 }
 @media only screen and (max-width: 600px) {
-  maingit  {
-    background-color: lightblue;
+  main {
+    background-color: rgba(66, 85, 168, 0.438);
   }
 }
+
