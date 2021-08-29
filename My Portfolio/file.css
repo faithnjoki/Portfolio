@@ -1,26 +1,22 @@
-body{
- background-color: antiquewhite;
+main{
+ background-color: rgb(194, 179, 179);
 }
-h1{
+h1 {
  text-align: center;
 }
 img {
  border-radius: 100%;
  padding-top: 15px;
-
 }
 ul {
  text-decoration: none;
-list-style: none;
+ list-style: none;
 }
 ul li{
  display: inline;
  margin: 20px; 
-
- 
  border-radius: 10px;
  font-size: 30px;
-
 }
 .listing {
  background-color: #a83246;
@@ -29,11 +25,16 @@ ul li{
 }
 li a{
  text-decoration:none;
- color: rgb(20, 220, 193);
-
+ 
 } 
-li a:active, a:hover, a:visited{
- color: gold;
-
+li a:active, a:hover, a:visited {
+ color:lightgrey;
 }
-
+footer{
+ text-align: center;
+}
+@media only screen and (max-width: 600px) {
+  maingit  {
+    background-color: lightblue;
+  }
+}
