@@ -1,0 +1,38 @@
+body{
+ background-color: antiquewhite;
+}
+h1{
+ text-align: center;
+}
+img {
+ border-radius: 100%;
+ padding-top: 15px;
+
+}
+ul {
+ text-decoration: none;
+list-style: none;
+}
+ul li{
+ display: inline;
+ margin: 20px; 
+
+ 
+ border-radius: 10px;
+ font-size: 30px;
+
+}
+.listing {
+ background-color: #a83246;
+ padding-top: 10px;
+ padding-bottom: 2px;
+}
+li a{
+ text-decoration:none;
+ color: rgb(20, 220, 193);
+
+} 
+li a:active, a:hover, a:visited{
+ color: gold;
+
+}
