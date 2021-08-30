@@ -1,5 +1,5 @@
 main{
- background-color: rgb(194, 179, 179);
+ background-color: rgb(130, 128, 136);
  padding-left: 10px;
  
 }
@@ -30,7 +30,7 @@ li a{
  
 } 
 li a:active, a:hover, a:visited {
- color:lightgrey;
+ color:mediumblue
 }
 footer{
  text-align: center;
